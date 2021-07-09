@@ -1,0 +1,11 @@
+.stocks {
+    margin: 10px;
+}
+
+.stock {
+    flex-wrap: wrap;
+}
+
+.stock > div {
+    margin: 5px;
+}

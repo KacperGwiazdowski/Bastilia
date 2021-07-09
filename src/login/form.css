@@ -1,0 +1,13 @@
+.login {
+    justify-content: center;
+    width: 100vw;
+}
+
+.login-container {
+    align-self: center;
+}
+
+.name {
+    text-align: center;
+    font-size: 1.5rem;
+}
